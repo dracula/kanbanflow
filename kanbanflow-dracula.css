@@ -1,0 +1,155 @@
+/* ==UserStyle==
+@name        KanbanFlow — Dracula Theme
+@description Dracula theme for KanbanFlow - derived from the user style https://userstyles.org/styles/179454/kanbanflow-simple-dark-mode created by Guilherme Cardoso
+@match       https://*.kanbanflow.com/*
+==/UserStyle== */
+
+div.taskList {
+    background-color: #282a36;
+    border-color: #6b636b;
+    border-style: none;
+}
+
+div.boardHeader {
+    background-color: #404040;
+}
+
+h1.boardHeader-boardName.truncate {
+    color: #f8f8f2;
+}
+
+div.columnHeader-inner {
+    background-color: #1c1c1c;
+}
+
+h2.columnHeader-name {
+    color: #f8f8f2;
+}
+
+i.columnHeader-descriptionIcon.icons-info {
+    color: #f8f8f2;
+    border-color: #000;
+    background-color: #f8f8f2;
+}
+
+button.icons-timer.boardHeader-timerShortcut.boardHeader-shortcut.icons--button {
+    color: #f8f8f2;
+}
+
+.board-taskListCellHeader-addTask:after,
+.board-taskListCellHeader-addTask:before {
+    background: #50fa7b;
+}
+
+div.board-wrapper-inner {
+    background-color: #1f1f1f;
+}
+
+div.board-collapsedColumnName {
+    background-color: #141414;
+}
+
+.board-swimlane-topEmpty {
+    background-color: #282a36;
+    border-color: #44475a;
+}
+
+.board-swimlane-header {
+    background-color: #6272a4;
+    border-color: #44475a;
+}
+
+.board-taskListCellHeader-countAndLimit,
+.board-swimlane-name {
+    color: #f8f8f2;
+}
+
+h2.collapsed-info-title {
+    color: #e0e0e0;
+}
+
+.board-taskListCell {
+    border-color: #000;
+}
+
+.board-taskListCellHeader {
+    background-color: #6272a4;
+}
+
+.board-taskListCellHeader-inner {
+    background-color: #6272a4;
+}
+
+.column-first {
+    border-color: #000;
+}
+
+.columnHeader {
+    border-color: #000;
+}
+
+span.boardHeader-menuName {
+    color: #f8f8f2;
+}
+
+i.icons-menu {
+    color: #f8f8f2;
+}
+
+.board-colorLegendItem.board-colorLegend-purple,
+.task.task-purple {
+    background-color: #bd93f9;
+    border-color: #bd93f9;
+}
+
+.board-colorLegendItem.board-colorLegend-blue,
+.task.task-blue {
+    background-color: #6272a4;
+    border-color: #6272a4;
+}
+
+.board-colorLegendItem.board-colorLegend-red,
+.task.task-red {
+    background-color: #ff5555;
+    border-color: #ff5555;
+}
+
+.board-colorLegendItem.board-colorLegend-brown,
+.task.task-brown {
+    background-color: #A66829;
+    border-color: #A66829;
+}
+
+.board-colorLegendItem.board-colorLegend-cyan,
+.task.task-cyan {
+    background-color: #8be9fd;
+    border-color: #8be9fd;
+}
+
+.board-colorLegendItem.board-colorLegend-green,
+.task.task-green {
+    background-color: #50fa7b;
+    border-color: #50fa7b;
+}
+
+.board-colorLegendItem.board-colorLegend-magenta,
+.task.task-magenta {
+    background-color: #FF0080;
+    border-color: #FF0080;
+}
+
+.board-colorLegendItem.board-colorLegend-orange,
+.task.task-orange {
+    background-color: #ffb86c;
+    border-color: #ffb86c;
+}
+
+.task.task-white {
+    background-color: #f8f8f2;
+    border-color: #f8f8f2;
+}
+
+.task.task-yellow {
+    background-color: #f1fa8c;
+    border-color: #f1fa8c;
+}

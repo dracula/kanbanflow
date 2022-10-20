@@ -1,17 +1,10 @@
-### [Foobar](https://foobar.com)
-
-#### Install using Git
-
-If you are a git user, you can install the theme and keep up to date by cloning the repo:
-
-    git clone https://github.com/dracula/foobar.git
+### [KanbanFlow](https://kanbanflow.com)
 
 #### Install manually
 
-Download using the [GitHub .zip download](https://github.com/dracula/foobar/archive/master.zip) option and unzip them.
+1. Download the [CSS file](https://github.com/dracula/kanbanflow/archive/kanbanflow-dracula.css)
 
 #### Activating theme
 
-1. Do this
-2. Then that
-3. Boom! It's working
+1. Copy the CSS into your brower's userscript manager
+2. Refresh

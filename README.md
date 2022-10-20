@@ -1,26 +1,22 @@
-# Dracula for [Foobar](https://foobar.com)
+# Dracula for [KanbanFlow](https://kanbanflow.com)
 
-> A dark theme for [Foobar](https://foobar.com).
+> A dark theme for [Kanban Flow](https://kanbanflow.com).
 
 ![Screenshot](./screenshot.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/foobar](https://draculatheme.com/foobar).
+All instructions can be found at [draculatheme.com/kanbanflow](https://draculatheme.com/kanbanflow).
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
+* This theme is maintained by:
 
-| [![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) |
+| [![Rhyd Lewis](https://github.com/rhydlewis.png?size=100)](https://github.com/rhydlewis) |
 | ---------------------------------------------------------------------------------------- |
-| [Zeno Rocha](https://github.com/zenorocha)                                               |
+| [Rhyd Lewis](https://github.com/rhydlewis)                                               |
 
-## Community
-
-- [Twitter](https://twitter.com/draculatheme) - Best for getting updates about themes and new stuff.
-- [GitHub](https://github.com/dracula/dracula-theme/discussions) - Best for asking questions and discussing issues.
-- [Discord](https://draculatheme.com/discord-invite) - Best for hanging out with the community.
+* Derived from this [userscript by Guilherme Cardoso](https://userstyles.org/styles/179454/kanbanflow-simple-dark-mode)
 
 ## License
 
